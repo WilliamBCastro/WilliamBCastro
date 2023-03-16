@@ -7,11 +7,22 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Rarolog Transportadora 🚗
-- 🌱 I’m currently learning  Java ☕ img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+- 🌱 I’m currently learning  Java ☕ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 - 👯 I’m looking to collaborate with the technology of the world
-- 🤔 I’m looking for help with life of programer 😂
+- 🤔 I’m looking for help with life of Programmer 😂
 - 💬 Ask me about codes or tecnology
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Programmer, Proactive, Otaku 🤣  
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
