@@ -22,5 +22,5 @@
 
 
 
-![Snake animation](https://github.com/WilliamBCastro/WilliamBCastro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WilliamBCastro/blob/output/github-contribution-grid-snake.svg)
 
