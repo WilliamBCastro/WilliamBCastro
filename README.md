@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
 # 👋 Hello! Welcome to my Github profile.
 ## My name is William and my nickname is "Will"!
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Rarolog Transportadora 🚗
 - 🌱 I’m currently learning  Java ☕ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -26,3 +23,4 @@ Here are some ideas to get you started:
 
 
 ![Snake animation](https://github.com/WilliamBCastro/WilliamBCastro/blob/output/github-contribution-grid-snake.svg)
+
