@@ -10,3 +10,5 @@
 - 💬 Ask me about codes or tecnology
 - ⚡ Fun fact: Programmer, Proactive, Otaku 🤣  
 -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
